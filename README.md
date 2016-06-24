@@ -5,6 +5,10 @@ Curated list of datasets..
 1. UCI ML Repository
 	https://archive.ics.uci.edu/ml/index.html
 
+2. Reddit Page for Datasets
+	- https://www.reddit.com/r/datasets/
+	- https://twitter.com/reddit_datasets (Twitter Account)
+
 
 
 ##Natural Language Processing
