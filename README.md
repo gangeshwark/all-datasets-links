@@ -18,8 +18,12 @@ Curated list of datasets..
 2. Trump Speeches
 	https://github.com/ryanmcdermott/trump-speeches
 
+3. LAMBADA Dataset
+	http://clic.cimec.unitn.it/lambada/
 
 
+##Information Retrieval
+##Speech Recognition
 ##Computer Vision
 
 
