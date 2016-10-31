@@ -36,8 +36,6 @@ Curated list of datasets..
 	
 4. Data for Everyone - Crowdflower
 	https://www.crowdflower.com/data-for-everyone/
-	Many labeled tweet datasets, sentiment, opinion mining
-
 
 ##Information Retrieval
 ##Speech Recognition
