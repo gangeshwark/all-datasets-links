@@ -26,6 +26,10 @@ Curated list of datasets..
 ##Speech Recognition
 ##Computer Vision
 
+##Misc
+1. Datasets from MILA Lab - University of Montreal, Canada
+	https://mila.umontreal.ca/en/publications/public-datasets/
+
 
 #Contribute
 Fork and create a pull request
