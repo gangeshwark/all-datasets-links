@@ -3,6 +3,13 @@ Curated list of datasets..
 
 ##Index
 - [General](#general)
+- [Data Science](#data-science)
+- [Time Series](#time-series)
+- [Natural Language Processing](#natural-language-processing)
+- [Information Retrieval](#information-retrieval)
+- [Speech Recognition](#speech-recognition)
+- [Computer Vision](#computer-vision)
+- [Misc](#misc)
 
 ##General
 1. UCI ML Repository:
