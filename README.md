@@ -1,6 +1,9 @@
 # All Datasets Links
 Curated list of datasets..
 
+##Index
+- [General](#general)
+
 ##General
 1. UCI ML Repository:
 	https://archive.ics.uci.edu/ml/index.html
