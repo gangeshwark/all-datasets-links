@@ -24,6 +24,9 @@ Curated list of datasets..
 
 4. University of Edinburugh - School of Informatics - Data Mining datsets
 	- http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
+	
+5. 19 Free Public Data Sets For Your First Data Science Project
+        - https://www.springboard.com/blog/free-public-data-sets-data-science-project/
 
 
 ##Data Science
