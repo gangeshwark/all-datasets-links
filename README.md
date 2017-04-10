@@ -1,7 +1,7 @@
 # All Datasets Links
 Curated list of datasets..
 
-##Index
+## Index
 - [General](#general)
 - [Data Science](#data-science)
 - [Time Series](#time-series)
@@ -11,7 +11,7 @@ Curated list of datasets..
 - [Computer Vision](#computer-vision)
 - [Misc](#misc)
 
-##General
+## General
 1. UCI ML Repository:
 	https://archive.ics.uci.edu/ml/index.html
 
@@ -29,15 +29,15 @@ Curated list of datasets..
         - https://www.springboard.com/blog/free-public-data-sets-data-science-project/
 
 
-##Data Science
+## Data Science
 1. AirBnB: http://insideairbnb.com
 
-##Time Series
+## Time Series
 
 1. Time Series Data Library - Data Market
 	https://datamarket.com/data/list/?q=provider:tsdl
 
-##Natural Language Processing
+## Natural Language Processing
 1. The Stanford Question Answering Dataset:
 	https://stanford-qa.com/
 
@@ -50,11 +50,11 @@ Curated list of datasets..
 4. Data for Everyone - Crowdflower
 	https://www.crowdflower.com/data-for-everyone/
 
-##Information Retrieval
-##Speech Recognition
-##Computer Vision
+## Information Retrieval
+## Speech Recognition
+## Computer Vision
 
-##Misc
+## Misc
 1. Datasets from MILA Lab - University of Montreal, Canada:
 	- https://mila.umontreal.ca/en/publications/public-datasets/
 
@@ -62,5 +62,5 @@ Curated list of datasets..
 	- http://opendata.stackexchange.com/
 
 
-#Contribute
+# Contribute
 Fork and create a pull request
