@@ -61,6 +61,9 @@ Curated list of datasets..
 2. Open Data Stack Exchange
 	- http://opendata.stackexchange.com/
 
+3. Academic Torrents
+        - http://academictorrents.com/browse.php?cat=6
+
 
 # Contribute
 Fork and create a pull request
