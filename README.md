@@ -13,7 +13,7 @@ Curated list of datasets..
 
 ## General
 1. UCI ML Repository:
-	https://archive.ics.uci.edu/ml/index.html
+	- https://archive.ics.uci.edu/ml/index.html
 
 2. Reddit Page for Datasets:
 	- https://www.reddit.com/r/datasets/
@@ -35,7 +35,7 @@ Curated list of datasets..
 ## Time Series
 
 1. Time Series Data Library - Data Market
-	https://datamarket.com/data/list/?q=provider:tsdl
+	- https://datamarket.com/data/list/?q=provider:tsdl
 
 ## Natural Language Processing
 1. The Stanford Question Answering Dataset:
